@@ -35,7 +35,6 @@ render(){
           <Route path="/shop" component={Shop}/>
           
           <button onClick={signInWithGoogle}>SignIn </button>
-          {/* <img style={{borderRadius:50%}} src={'https://lh3.googleusercontent.com/a-/AFdZucrOdRT3Esz3zddSxn_IQdpVy9guHeSvZM0K6Pl4Cw=s96-c'}></img> */}
       </div>
     </Router>
      
